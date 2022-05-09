@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tropical Leaf
+* source:	https://sketchfab.com/3d-models/tropical-leaf-27bac67b01c74958baf52a5122bc8cab
+* author:	jaimerog (https://sketchfab.com/jaimerog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tropical Leaf" (https://sketchfab.com/3d-models/tropical-leaf-27bac67b01c74958baf52a5122bc8cab) by jaimerog (https://sketchfab.com/jaimerog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
