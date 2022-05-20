@@ -99,10 +99,6 @@
   ],
   "extensionsUsed": [
     "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "images": [
-    {
-      "uri": "textures/Material_diffuse.jpeg"
     }
   ],
   "materials": [
